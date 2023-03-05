@@ -1,4 +1,4 @@
-# Modern log Top Texture mod
+# 1.7 log Top Texture mod
 
 A mod for beta 1.7.3 that basically add Spruce log And Birch log top texture
 
